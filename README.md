@@ -37,21 +37,3 @@ Você pode clonar este repositório para seu ambiente de desenvolvimento local e
 1
 Se você encontrar erros nos exemplos de código ou tiver sugestões para melhorias, sinta-se à vontade para criar uma _pull request_ ou abrir uma _issue_. Contribuições são bem-vindas!
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Animacao</title>
-    <style>
-        @keyframes blink {
-            0% { opacity: 1; }
-            50% { opacity: 0; }
-            100% { opacity: 1; }
-        }
-</head>
-<body>
-    <h1 class="blink-text">Algoritmos e Lógica de Programação em C#</h1>
-</body>
-</html>
-
