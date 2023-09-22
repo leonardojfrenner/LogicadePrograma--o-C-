@@ -49,11 +49,6 @@ Se você encontrar erros nos exemplos de código ou tiver sugestões para melhor
             50% { opacity: 0; }
             100% { opacity: 1; }
         }
-
-        .blink-text {
-            animation: blink 1s infinite;
-        }
-    </style>
 </head>
 <body>
     <h1 class="blink-text">Algoritmos e Lógica de Programação em C#</h1>
